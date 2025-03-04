@@ -131,7 +131,7 @@ ul.row {
   clear: both;
 }
 
-.col-* {
+[class^="col-"] {
   padding: 0.5rem;
   float: left;
 }
