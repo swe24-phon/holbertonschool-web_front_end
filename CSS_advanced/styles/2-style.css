@@ -1,0 +1,22 @@
+body {
+  background-color: #161616;
+}
+html {
+  scroll-behavior: smooth;
+}
+
+a {
+  color: #161616;
+}
+
+.visuall-hidden {
+  display: none;
+}
+
+.card-category {
+  color: #073953;
+}
+
+.section-tagline {
+  color: #073953;
+}
